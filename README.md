@@ -97,5 +97,5 @@ No issues encountered during implementation.
 ## Author
 👤 **Syed Darain Hyder Kazmi (sawab_e_darain)**  
 
-- GitHub: [sawab-e-darain](https://github.com/sawab-e-darain)  
-- LinkedIn: [Syed Darain Hyder Kazmi](https://www.linkedin.com/in/sawab-e-darain)  
+- GitHub: [DarainHyder](https://github.com/DarainHyder)  
+- LinkedIn: [Syed Darain Hyder Kazmi](https://www.linkedin.com/in/syed-darain-hyder-kazmi)  
